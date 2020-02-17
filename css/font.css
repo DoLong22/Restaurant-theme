@@ -1,0 +1,14 @@
+@font-face{
+    src:url("../fonts/playfairdisplay/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2") ;
+    font-family: Playpair Display
+}
+@font-face{
+    src:url("../fonts/lato/S6uyw4BMUTPHjx4wXg.woff2");
+    font-family:Lato;
+}
+.play-font{
+    font-family: Playpair Display;
+}
+.lato-font{
+    font-family: Lato;
+}
